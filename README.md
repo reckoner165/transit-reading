@@ -13,10 +13,11 @@ A non-exhaustive list of resources on transit infrastructure, economy and techno
 
 ## Trains
 
+- [The official MTA Info channel](https://www.youtube.com/user/mtainfo)
 - [All The Stations - Vlog](https://www.youtube.com/watch?v=SoA1OTQJoxQ&list=PL4PdgT_AV_nXshM-I7xjYpXG-C_2tH1W9)
 
 ## Aviation
 
-- [Wendover Production's Aviation](https://www.youtube.com/watch?v=6Oe8T3AvydU&list=PLrD8IwjH4KL3kylbdzvBvnXJ266irXfzx)
+- [Wendover Production's Aviation Playlist](https://www.youtube.com/watch?v=6Oe8T3AvydU&list=PLrD8IwjH4KL3kylbdzvBvnXJ266irXfzx)
 - [History of the DC-10](https://www.youtube.com/watch?v=l-085TjhUPo)
 - [Airport Expert Creates the Ideal Layout for LaGuardia Airport (New York) | WIRED](https://www.youtube.com/watch?v=Kil-slXgVys)
